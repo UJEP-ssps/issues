@@ -6,6 +6,13 @@ body:
       value: |
         Děkujeme za nahlášení chyby. Pro správné řešení chyby je potřeba, aby byly vyplněny všechny položky.
   - type: textarea
+    id: what-happened
+    attributes:
+      label: Co se stalo?
+      description: Popište co se stalo.
+      placeholder: |
+        Například: "Nelze se přihlásit."
+  - type: textarea
     id: what-should-happen
     attributes:
       label: Co by se mělo stát?
