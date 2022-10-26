@@ -12,17 +12,16 @@ body:
       description: Popište co by se mělo stát.
       placeholder: |
         Například: "Měl bych se přihlásit."
-  -type: textarea
-    id: what-happened-instead
+  - type: textarea
+    id: URL
     attributes:
       label: URL
       description: URL stránky, kde se chyba vyskytla.
       placeholder: |
         Například: "https://www.example.com"
-  - type: input
+  - type: textarea
     id: screenshot
     attributes:
       label: Screenshot
-      description: Nahrajte screenshot.
-      placeholder: |
-        Například: "https://www.example.com"
+      description: Screenshot chyby.
+  
