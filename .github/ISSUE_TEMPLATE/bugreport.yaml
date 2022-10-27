@@ -1,7 +1,7 @@
 name: Nahlášení chyb
 description: Nahlášení chyb
 title: "Chyba: "
-asignees: 
+assignees: 
   - michalhejd
 body:
   - type: markdown
