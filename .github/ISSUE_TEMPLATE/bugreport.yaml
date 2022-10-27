@@ -3,6 +3,7 @@ description: Nahlášení chyb
 title: "Chyba: "
 assignees: 
   - michalhejd
+  - danbulant
 body:
   - type: markdown
     attributes:
